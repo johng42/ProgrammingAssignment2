@@ -1,4 +1,4 @@
-makeCacheMatrix<-function(m=matrix)
+makeCacheMatrix<-function(m=matrix())
 {
     n<-NULL
     set <- function(y)
